@@ -154,14 +154,15 @@ li{
 	color: rgb(57, 47, 2);
 }
 #z{
-	font-size: 30px;
+	font-size: 18px;
 	color: rgb(0, 0, 0);
 }
 /* 按钮 */
 button {
 	width: 120px;
 	height:60px;
-	font-size: 24px;
+	font-size: 18px;
+	color: rgb(255, 255, 255);
 	background-color: indianred;
 	padding: auto;
 	margin-left: 10px;
